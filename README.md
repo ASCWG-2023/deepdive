@@ -6,7 +6,7 @@ Hello and welcome to our User Management System! Developed with dedication and a
 
 1. **User Registration**:
     - Easy registration process for new users, guiding them step-by-step.
-    - We prioritize user data protection. Passwords are securely encrypted using AES-128-cbc encryption before storage, ensuring the utmost security of user credentials.
+    - We prioritize user data protection. Passwords are securely encrypted using AES-128-cbc encryption before storage in table named "users", ensuring the utmost security of user credentials.
 
 2. **User Login**:
     - Our login system is intuitive. Registered users can effortlessly log in with their credentials.
